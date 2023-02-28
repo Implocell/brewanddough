@@ -1,0 +1,19 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    background-color: darkgray;
+}
+
+.label {
+    color: lightgray;
+}
+
+.input {
+    color: white;
+}
+
+.submit-btn {
+    color: white;
+    background-color: gray;
+}

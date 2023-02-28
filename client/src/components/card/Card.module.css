@@ -1,0 +1,23 @@
+.card {
+    border-radius: 12px;
+    background-color: lightgray;
+    border: 0.5px solid;
+    width: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+.card-header{
+    color: darkgray;
+}
+
+.card-row {
+    display: flex;
+}
+
+.card-col{
+    display: flex;
+    flex-direction: column;
+}
